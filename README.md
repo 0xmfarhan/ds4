@@ -1,3 +1,5 @@
+github push demo by farhan
+
 # ds4.c
 
 `ds4.c` is a small native inference engine for DeepSeek V4 Flash. It is
